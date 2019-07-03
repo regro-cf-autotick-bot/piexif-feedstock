@@ -20,9 +20,6 @@ requirements:
     - pip
   run:
     - python
-    - pillow 5.4.1
-    - Sphinx
-    - sphinxcontrib-websupport
 test:
   imports:
     - piexif
